@@ -10,7 +10,7 @@ table, td, th {
     border: 1px solid black;
 }
 .center {
-    width: 100%;
+    width: 10%;
     list-style-position: inside;
     text-align: left;
     display: inline-block;
