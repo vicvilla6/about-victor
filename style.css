@@ -1,15 +1,17 @@
+body {
+    background-color: darkolivegreen;
+}
+
+ul {
+    color: white;
+}
+
+p { color: white}
 h1 {
-    color: crimson;
+    color: white;
 }
 
-table {
-    border-collapse: collapse;
-}
-
-table, td, th {
-    border: 1px solid blue;
-}
-.center {
+.fit-picture {
     width: 80%;
     list-style-position: inside;
     text-align: left;
